@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-c5c0e9a6b86d0467556c17b2171f192388e33c12.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-2fd9bb940ec09a5971b66085a4c1581e55fa3fea.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\pre-dexed\debug\classes-28806dd44ec13fd35b14cff373495e4c6e8ad73f.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJ\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.2-719db58865b93f2a5b9e3b75a59cc1e74e37e157.jar" />
+    </item>
+    <item
+        jar="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\AJ\Desktop\opensource\BeatChecker\app\build\intermediates\pre-dexed\debug\classes-3ba64622c9645a42dce595005a075af75bc807e9.jar" />
+    </item>
+
+</items>
